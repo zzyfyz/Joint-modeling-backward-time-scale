@@ -13,8 +13,11 @@ Required inputs：
 
 Before running the script, you will need to prepare the following:
 1. Analysis dataset
+
 A subject-level dataset containing the variables required for model fitting.
+
 2. Missingness mask (mask)
+
 A separate dataset indicating which longitudinal outcome values are observed versus missing. This is required because Stan does not allow NA values in the input data.
 
 User-specified settings：
