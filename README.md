@@ -7,6 +7,7 @@ Data and scripts:
 The Dataset folder contains two simulated datasets generated under different baseline hazard assumptions:
 1. Weibuill baseline hazard
 2. Piecewise-exponential baseline hazard
+
 The file Terminal_run.R is the main script used to fit the proposed joint model.
 
 Required inputs：
